@@ -21,8 +21,6 @@ You don't need a GitHub account for just cloning the class repository. Just do:
 
 `git clone https://github.com/keleher/424-spring2017-project0.git`
 
-You can do `git pull` (from within the `cmsc424-fall2016` directory) to fetch the newly added material. 
-
 *NOTE*: If you are having trouble installing `git`, you can just download the files instead (as a zipfile), although updating may become tedious. 
 
 #### Setting up a GitHub Account 
@@ -36,7 +34,7 @@ details: https://education.github.com/
     - Go to Profile: https://github.com/settings/profile, and SSH Keys (or directly: https://github.com/settings/ssh)
     - Add SSH Key
 - Clone the class repository:
-    - In Terminal: `git clone git@github.com:umddb/cmsc424-fall2016.git`
+    - In Terminal: `git clone git@github.com:keleher/424-spring2017-project0.git`
     - The master branch should be checked out in a new directory 
 - Familiarize yourself with the basic git commands
     - At a minimum, you would need to know: `clone`, `add`, `commit`, `push`, `pull`, `status`
