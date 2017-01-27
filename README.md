@@ -19,7 +19,7 @@ collaboration for your class project, or for other classes.
 #### Just Cloning the Class Repository
 You don't need a GitHub account for just cloning the class repository. Just do:
 
-`git clone https://github.com/keleher/424-spring2017-project0.git
+`git clone https://github.com/keleher/424-spring2017-project0.git`
 
 You can do `git pull` (from within the `cmsc424-fall2016` directory) to fetch the newly added material. 
 
