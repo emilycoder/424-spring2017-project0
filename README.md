@@ -139,6 +139,6 @@ This will start a server on the VM, listening on port 8888. We will access it fr
 
 * You should see the Notebooks in the `project0/` directory. Click to open the "IPython Getting Started" Notebook, and follow the instruction therein.
 
-* The second Notebook ("Basics of SQL") covers basics of SQL, by connecting to your local PostgreSQL instance. The Notebook also serves as an alternative mechanism to run queries. However, in order to use that, you must set up a password in `psql` using `\password` (set the password to be `vagrant`).
+* The second Notebook ("Basics of SQL") covers basics of SQL, by connecting to your local PostgreSQL instance. The Notebook also serves as an alternative mechanism to run queries. However, in order to use that, you must set up a password in `psql` using `\password` (set the password to be `ubuntu`).
 
 
